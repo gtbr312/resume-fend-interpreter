@@ -1,0 +1,13 @@
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\bin\Debug\netcoreapp3.1\FITRP.exe
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\bin\Debug\netcoreapp3.1\FITRP.deps.json
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\bin\Debug\netcoreapp3.1\FITRP.runtimeconfig.json
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\bin\Debug\netcoreapp3.1\FITRP.runtimeconfig.dev.json
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\bin\Debug\netcoreapp3.1\FITRP.dll
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\bin\Debug\netcoreapp3.1\FITRP.pdb
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\obj\Debug\netcoreapp3.1\FITRP.csprojAssemblyReference.cache
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\obj\Debug\netcoreapp3.1\FITRP.AssemblyInfoInputs.cache
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\obj\Debug\netcoreapp3.1\FITRP.AssemblyInfo.cs
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\obj\Debug\netcoreapp3.1\FITRP.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\obj\Debug\netcoreapp3.1\FITRP.dll
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\obj\Debug\netcoreapp3.1\FITRP.pdb
+C:\Users\Matthew\nand\FendInterpreter\FITRP\FITRP\obj\Debug\netcoreapp3.1\FITRP.genruntimeconfig.cache

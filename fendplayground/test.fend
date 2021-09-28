@@ -1,0 +1,61 @@
+class Student{
+  PrintPrivelages(){
+    print "You do not have administrative privelages.";
+  }
+}
+
+class MathStudent < Student{
+  Init(name, className){
+    this.name = name;
+    this.className = className;
+    parent.PrintPrivelages();
+  }
+
+  PrintClass(){
+    print this.name + " is enrolled in " + this.className +".";
+  }
+}
+
+var matt = Student("Matt", "pretty good");
+matt.PrintClass();
+
+func makePyramid(word, height){
+  func shouldStack(){
+    var shouldStack = true;
+    var stackHeight = 0;
+    while(shouldStack){
+      var wordStack = "";
+      for(var i = 0; i <= stackHeight; i = i + 1){
+        wordStack = wordStack + word;
+      }
+      if(stackHeight < height){
+        stackHeight = stackHeight + 1;
+      }else{
+        shouldStack = false;
+      }
+      print wordStack;
+    }
+  }
+
+  func shouldPull(){
+    var shouldStack = true;
+    var stackHeight = height;
+    while(shouldStack){
+      var wordStack = "";
+      for(var i = stackHeight; i > 0; i = i - 1){
+        wordStack = wordStack + word;
+      }
+      if(stackHeight > 0){
+        stackHeight = stackHeight - 1;
+      }else{
+        shouldStack = false;
+      }
+      print wordStack;
+    }
+  }
+
+  shouldStack();
+  shouldPull();
+}
+
+makePyramid("X", 5);
